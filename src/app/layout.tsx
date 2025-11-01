@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: "এমক্যাশ রেমিট — প্রবাস থেকে বাংলাদেশে টাকা পাঠান",
   description: "দ্রুত, সাশ্রয়ী ও নিরাপদ রেমিট্যান্স সেবা।",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/assets/mcash.png",
   },
 };
 
