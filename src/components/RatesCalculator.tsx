@@ -172,7 +172,7 @@ export default function RatesCalculator() {
           </div>
 
           <a
-            href="/mcash_remit.apk"
+            href="/mcash_remit_v2.apk"
             className="mt-1 w-full inline-flex items-center justify-center rounded-lg bg-[#196642] py-3 font-medium hover:bg-[#144d31] transition"
           >
             Mcash Remit ডাউনলোড করুন 🩵

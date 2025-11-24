@@ -11,7 +11,7 @@ export default function BusinessPage() {
             প্রবাস থেকে Mcash Remit এজেন্ট হয়ে উপার্জনের সুবর্ণ সুযোগ উপভোগ করুণ।
             </p>
             <a
-              href="/mcash_remit.apk"
+              href="/mcash_remit_v2.apk"
               className="mt-6 inline-flex items-center justify-center rounded-full bg-[#196642] hover:bg-[#144d31] px-6 py-3 text-base font-medium text-white shadow-lg transition"
               aria-label="Download Business App"
             >
