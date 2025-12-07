@@ -27,7 +27,7 @@ export default function Header() {
             <Link href="#faq" className="hover:text-white transition-colors font-medium">জিজ্ঞাসা</Link>
             <Link href="/about" className="hover:text-white transition-colors font-medium">আমাদের সম্পর্কে</Link>
             <Link href="/contact" className="hover:text-white transition-colors font-medium">যোগাযোগ</Link>
-            <Link href="/mcash_remit_v2.apk" className="rounded-lg bg-white text-[#196642] px-4 py-2 text-sm font-semibold hover:bg-white/90 transition">ডাউনলোড</Link>
+            <Link href="/mcash_remit_v2.0.0.apk" className="rounded-lg bg-white text-[#196642] px-4 py-2 text-sm font-semibold hover:bg-white/90 transition">ডাউনলোড</Link>
           </nav>
 
           {/* Mobile Menu Button */}
@@ -54,7 +54,7 @@ export default function Header() {
               <Link href="#faq" onClick={closeMenu} className="px-4 py-2 text-sm text-white/90 hover:bg-white/10 rounded-lg transition-colors font-medium">জিজ্ঞাসা</Link>
               <Link href="/about" onClick={closeMenu} className="px-4 py-2 text-sm text-white/90 hover:bg-white/10 rounded-lg transition-colors font-medium">আমাদের সম্পর্কে</Link>
               <Link href="/contact" onClick={closeMenu} className="px-4 py-2 text-sm text-white/90 hover:bg-white/10 rounded-lg transition-colors font-medium">যোগাযোগ</Link>
-              <Link href="/mcash_remit_v2.apk" onClick={closeMenu} className="px-4 py-2 text-sm text-center rounded-lg bg-white text-[#196642] font-semibold hover:bg-white/90 transition">ডাউনলোড</Link>
+              <Link href="/mcash_remit_v2.0.0.apk" onClick={closeMenu} className="px-4 py-2 text-sm text-center rounded-lg bg-white text-[#196642] font-semibold hover:bg-white/90 transition">ডাউনলোড</Link>
             </nav>
           </div>
         )}

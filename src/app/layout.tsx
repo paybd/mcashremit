@@ -71,7 +71,7 @@ export default function RootLayout({
                 <h3 className="font-semibold mb-4 text-neutral-900">যোগাযোগ</h3>
                 <ul className="space-y-2 text-sm text-neutral-600">
                   <li><Link href="/contact" className="hover:text-[#196642] transition-colors">যোগাযোগ করুন</Link></li>
-                  <li><Link href="/mcash_remit_v2.apk" className="hover:text-[#196642] transition-colors">ডাউনলোড</Link></li>
+                  <li><Link href="/mcash_remit_v2.0.0.apk" className="hover:text-[#196642] transition-colors">ডাউনলোড</Link></li>
                 </ul>
               </div>
 
