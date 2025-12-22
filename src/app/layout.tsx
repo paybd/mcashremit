@@ -35,16 +35,6 @@ export default function RootLayout({
         <div className="h-16 md:h-[72px]" aria-hidden="true" />
         <RateTicker />
         <main className="">{children}</main>
-        <a
-          href="https://wa.me/+17313186845"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="WhatsApp এ আমাদের সাথে কথা বলুন"
-          className="fixed bottom-6 right-6 z-50 inline-flex items-center gap-2 rounded-full bg-[#25D366] text-white px-5 py-3 font-semibold shadow-xl hover:shadow-2xl hover:scale-[1.03] transition-transform"
-        >
-          <span>💬</span>
-          <span>WhatsApp</span>
-        </a>
         <footer className="bg-neutral-50 text-neutral-900">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
             <div className="grid md:grid-cols-4 gap-8 mb-8">
